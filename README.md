@@ -1,6 +1,6 @@
 <h3 align="center">Hi,I'm Denex A Poulose </h3>
 <h3 align="center">Frontend Developer </h3>
-<img src="/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denex8poulose&label=Profile%20views&color=0e75b6&style=flat" alt="denex8poulose" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denex8poulose" alt="denex8poulose" /></a> </p>
