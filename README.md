@@ -2,9 +2,9 @@
 <h3 align="center">Frontend 🖥️ Developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=denex8poulose&label=Profile%20views&color=0e75b6&style=flat" alt="denex8poulose" /> </p>
-
-
-
+<p align="center">
+![coder](https://i.pinimg.com/736x/ce/98/9c/ce989c0dd688b3b99a31400129d2d211.jpg)
+</p>
 - 🔭 I’m currently working on **Web Development**
 
 
