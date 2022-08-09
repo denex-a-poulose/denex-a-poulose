@@ -1,17 +1,16 @@
-<h3 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> I'm Denex A Poulose </h3>
-<h3 align="center">Frontend 🖥️ Developer </h3>
+![Profile](Profile.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=denex8poulose&label=Profile%20views&color=0e75b6&style=flat" alt="denex8poulose" /> </p>
 
 
-- 🔭 I’m currently working on **Web Development**
+-  I’m currently working on **Web Development**
 
 
 
-- 👨‍💻 All of my projects are available at [https://denex8poulose.github.io/Denex/](https://github.com/Denex8Poulose/)
+-  All of my projects are available at [https://denex8poulose.github.io/Denex/](https://github.com/Denex8Poulose/)
 
-- 📫 How to reach me **denexdnx5@gmail.com**
-- 🌐 Website  [https://denex8poulose.github.io/Denex/](https://denex8poulose.github.io/Denex/)
+-  How to reach me **denexdnx5@gmail.com**
+-  Website  [https://denex8poulose.github.io/Denex/](https://denex8poulose.github.io/Denex/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/idenex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idenex" height="30" width="40" /></a>
