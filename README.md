@@ -10,10 +10,11 @@
 -  All of my projects are available at [https://denex8poulose.github.io/Denex/](https://github.com/Denex8Poulose/)
 
 -  How to reach me **denexdnx5@gmail.com**
+-  Twitter Account 
 -  Website  [https://denex8poulose.github.io/Denex/](https://denex8poulose.github.io/Denex/)
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Twitter</h3>
 <p align="left">
-<a href="https://instagram.com/idenex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idenex" height="30" width="40" /></a>
+<a href="https://twitter.com/denexpoulose" target="blank"><img align="left" src="twitter.png" alt="denex" height="30" width="40" /></a>
 </p>
 
 <h3> 🔧 Languages and Tools:</h3>
