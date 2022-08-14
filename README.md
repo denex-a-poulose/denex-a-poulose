@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm DENEX A POULOSE</h1>
+![profile](Profile.png)
 
-<h3 align="center">frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denex-a-poulose&label=Profile%20views&color=0e75b6&style=flat" alt="denex-a-poulose" /> </p>
 
-<p align="left"> <a href="https://twitter.com/denexpoulose" target="blank"><img src="https://img.shields.io/twitter/follow/denexpoulose?logo=twitter&style=for-the-badge" alt="denexpoulose" /></a> </p>
 
-- 🔭 I’m currently working on **Webdevelopment**
+-  I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React js , and other javascript frameworks.**
 
-- 👨‍💻 All of my projects are available at [Jj.com](Jj.com)
 
-- 📫 How to reach me **Exame@gmail.com**
+
+
+-  All of my projects are available at [denex](denex.vercel.app)
+
+-  How to reach me **denexdnx5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
