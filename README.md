@@ -18,7 +18,6 @@
 <p align="left">
 
 <a href="https://twitter.com/denexpoulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denexpoulose" height="30" width="40" /></a>
-<a href="https://instagram.com/denexapoulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denexapoulose" height="30" width="40" /></a>
 
 
 
