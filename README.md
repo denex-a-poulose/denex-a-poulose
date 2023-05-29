@@ -11,13 +11,13 @@
 
 -  All of my projects are available at [denex](denex.vercel.app)
 
--  How to reach me **denexdnx5@gmail.com**
+-  How to reach me **denex8online@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://twitter.com/denexpoulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denexpoulose" height="30" width="40" /></a>
+<a href="https://twitter.com/denexapoulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denexpoulose" height="30" width="40" /></a>
 
 
 
