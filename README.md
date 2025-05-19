@@ -1,14 +1,5 @@
-![profile](Profile.png)
-
-
-
-
--  I’m currently working on **Web Development**
-
-
-
-
-
+# Hey, I am Denex A Poulose
+-  I’m currently working on **Full-Stack Development**
 -  All of my projects are available at [denex](denex.vercel.app)
 
 -  How to reach me **denex8online@gmail.com**
@@ -17,10 +8,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/denexapoulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denexpoulose" height="30" width="40" /></a>
-
-
-
+<a href="https://x.com/denexapoulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denexpoulose" height="30" width="40" /></a>
 </p>
 
 
